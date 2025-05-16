@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name SM91502AL)(type KiCad)(uri ${KIPRJMOD}/SM91502AL.pretty)(options "")(descr ""))
+  (lib (name spr21e-bms)(type KiCad)(uri "C:/Users/Luca Engelmann/Desktop/spr21e-bms")(options "")(descr ""))
+  (lib (name Analog)(type KiCad)(uri ${KIPRJMOD}/footprint/Analog.pretty)(options "")(descr ""))
+  (lib (name HV-Logo)(type KiCad)(uri ${KIPRJMOD}/footprint/HV-Logo.pretty)(options "")(descr ""))
+  (lib (name JS102011SCQN)(type KiCad)(uri ${KIPRJMOD}/footprint/JS102011SCQN.pretty)(options "")(descr ""))
+)
